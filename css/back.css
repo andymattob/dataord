@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    text-decoration:none;
+    list-style-type: none;
+    padding: 0;
+}
+body{
+    background-image:url(img/back.jpg);
+    text-align: center;
+}
+.logo {
+    background-color: dimgrey;
+    width: 1884px;
+    height: 147px;
+    border-style: solid;
+    border-color: white;
+}
+
+.menu {
+    background-color: dimgrey;
+    width: 120px;
+    height: 3500px;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+}
+
+.menu nav ul li a {
+    font-size: 20px;
+    color: white;
+}
+
+.menu nav ul li a:hover {
+    color: slategray;
+    background-color: black;
+}
+
+.menu nav ul li a:active {
+    color: darkslateblue;
+}
+
+.content{
+    background-color: dimgray;
+    width: 1760px;
+    height: 3500px;
+    margin-left: 124px;
+    margin-top: -3506px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+}
+
+p{
+    font-size: 20px;
+}
